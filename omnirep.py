@@ -1,1 +1,1 @@
-The repo is available at link = "http://www.somesite.com/details.pl?urn=2344"    
+The repo is available at https://github.com/EpistasisLab/OMNIREP
