@@ -1,1 +1,1 @@
-The repo is available at https://github.com/EpistasisLab/OMNIREP
+# The repo is available at https://github.com/EpistasisLab/OMNIREP
